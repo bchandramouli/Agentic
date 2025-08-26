@@ -1,0 +1,61 @@
+# Mac OS crap 
+.DS_Store
+
+target/
+
+# venv libaries
+lib/
+
+# venv binaries
+bin/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+agent_env/
+
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# PyPI configuration file
+.pypirc
+
+# JetBrains folders
+.idea/
+
+# scratch files
+foo.txt
+photo.jpg
+
+# pycache
+__pycache__/
+
+# image data set
+images/
+
+share/
+
+# db folders
+chroma_store/
+
+#static directories
+static/
+STATIC/
+
+# service accounts
+service_account.json
